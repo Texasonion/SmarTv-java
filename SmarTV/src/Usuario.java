@@ -28,8 +28,8 @@ public class Usuario {
 
 
 
-      //  System.out.println("A tv está ligada? "+ !smarTv.ligada);
-      //  System.out.println("A tv está ligada? "+ smarTv.ligada);
+        System.out.println("A tv está ligada? "+ !smarTv.ligada);
+        System.out.println("A tv está ligada? "+ smarTv.ligada);
 
     }
 }
